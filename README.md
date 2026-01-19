@@ -40,15 +40,15 @@ The dataset contains detailed records of traffic accidents across the United Sta
 SCT_DS_4/
 │
 ├── data/
-│   └── US_Accidents.csv
+│   └── .gitkeep
 │
 ├── notebooks/
 │   └── accident_analysis.ipynb
 │
-├── venv/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+
 
 
 ---
